@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConnParams>
+    <CParam>
+      <outPluginName>Sample Plugin3</outPluginName>
+      <outPluginID>1</outPluginID>
+      <outPinIndex>0</outPinIndex>
+      <inPluginName>Sample Plugin2</inPluginName>
+      <inPluginID>2</inPluginID>
+      <inPinIndex>0</inPinIndex>
+      <ConnPicBoxLocations>
+        <Point>
+          <X>873.25</X>
+          <Y>310.9</Y>
+        </Point>
+        <Point>
+          <X>362.75</X>
+          <Y>190.9</Y>
+        </Point>
+      </ConnPicBoxLocations>
+    </CParam>
+  </ConnParams>
+  <PluginParams>
+    <PParam>
+      <pluginName>Sample Plugin2</pluginName>
+      <pluginID>2</pluginID>
+      <GraphSize>
+        <Width>0</Width>
+        <Height>0</Height>
+      </GraphSize>
+      <GraphLocation>
+        <X>868</X>
+        <Y>248</Y>
+      </GraphLocation>
+      <UISize>
+        <Width>791</Width>
+        <Height>490</Height>
+      </UISize>
+      <UILocation>
+        <X>993</X>
+        <Y>160.00000000000003</Y>
+      </UILocation>
+      <isUIVisible>true</isUIVisible>
+    </PParam>
+    <PParam>
+      <pluginName>Sample Plugin3</pluginName>
+      <pluginID>1</pluginID>
+      <GraphSize>
+        <Width>0</Width>
+        <Height>0</Height>
+      </GraphSize>
+      <GraphLocation>
+        <X>220</X>
+        <Y>128</Y>
+      </GraphLocation>
+      <UISize>
+        <Width>519.92</Width>
+        <Height>160.15</Height>
+      </UISize>
+      <UILocation>
+        <X>89</X>
+        <Y>137</Y>
+      </UILocation>
+      <isUIVisible>true</isUIVisible>
+    </PParam>
+  </PluginParams>
+  <UniqueID>3</UniqueID>
+</Configuration>
